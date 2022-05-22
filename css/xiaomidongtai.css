@@ -3,6 +3,14 @@
     color: white;
 }
 
+.hover-white{
+  transition: all 0.4s;
+}
+
+.hover-orgen{
+  transition: all 0.4s;
+}
+
 .hover-orgen:hover {
     color: rgb(254, 105, 0);
   }
